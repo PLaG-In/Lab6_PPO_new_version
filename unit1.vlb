@@ -1,0 +1,16 @@
+﻿[Button1]
+Coordinates=148,10,59,58
+
+[AnimationTimer]
+Coordinates=272,1,105,36
+
+[MediaPlayer1]
+Coordinates=79,78,93,36
+
+[Label1]
+Coordinates=217,10,53,58
+
+[]
+Coordinates=10,78,59,58
+Visible=True
+
